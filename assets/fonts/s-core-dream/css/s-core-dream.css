@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "s-core-dream";
+  src: url("../SCDream1.otf");
+  font-weight: thin;
+}
+
+@font-face {
+  font-family: "s-core-dream";
+  src: url("../SCDream4.otf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "s-core-dream";
+  src: url("../SCDream6.otf");
+  font-weight: bold;
+}

@@ -7,7 +7,7 @@
  *    IE on Windows Phone and in iOS.
  */
 html {
-  line-height: 1.15;
+  line-height: 1.5;
   /* 1 */
   -ms-text-size-adjust: 100%;
   /* 2 */
@@ -787,7 +787,7 @@ html {
 }
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "s-core-dream", "Lato", sans-serif;
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
@@ -818,7 +818,7 @@ blockquote {
   border-left: 5px solid #000;
   padding-left: 1.1rem;
   margin-left: 1rem;
-  font-style: italic;
+  /* font-style: italic; */
   color: #ada8a8;
 }
 
@@ -1203,7 +1203,7 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: "PT Serif", serif;
+  font-family: "s-core-dream", "PT Serif", serif;
   text-decoration: none;
   color: #263959;
 }
