@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monorepo With Yarn Workspaces
-date: 2021-04-14 10:12:20 +0300
+date: 2021-04-14 10:12:20 +0900
 description: Monorepo가 무엇인지 알아보고, yarn의 workspaces 기능을 통해 Monorepo를 설정하는 방법에 대해 정리하였습니다. # Add post description (optional)
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
