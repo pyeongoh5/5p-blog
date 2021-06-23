@@ -2,7 +2,7 @@
 layout: post
 title: 안드로이드 구버전 Webview 대응하기
 date: 2021-06-23 19:21:20 +0900
-description: Javascript 실행 컨텍스트
+description: 안드로이드 구버전 Webview 대응하기
 img: "/Chrome-OS-Android.png"
 fig-caption: # Add figcaption (optional)
 tags: [javascript, webview, polyfill]
