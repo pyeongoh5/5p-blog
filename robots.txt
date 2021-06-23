@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pyeongoh5.github.io/5p-blog/sitemap.xml
