@@ -44,7 +44,13 @@ h1 {
   font-size: 2em;
   margin: 0.67em 0;
 }
-
+h2,
+h3 {
+  margin: 0.67em 0 0;
+}
+p {
+  margin: 0;
+}
 /* Grouping content
    ========================================================================== */
 /**
@@ -125,9 +131,9 @@ strong {
   font-weight: inherit;
 }
 
-p {
+/* p {
   margin: 0.5em 0;
-}
+} */
 
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
@@ -136,12 +142,14 @@ b,
 strong {
   font-weight: bolder;
 }
-
+code {
+  font-size: 18px;
+  letter-spacing: -0.7px;
+}
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-code,
 kbd,
 samp {
   font-family: monospace, monospace;
@@ -460,8 +468,10 @@ div.highlighter-rouge {
 }
 
 code.language-plaintext {
-  color: #08090a;
-  background-color: #faa;
+  /* color: #08090a;
+  background-color: #faa; */
+  color: #303030;
+  background-color: antiquewhite;
 }
 
 .highlight .hll {
